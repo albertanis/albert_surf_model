@@ -1,0 +1,370 @@
+<model>
+<species name="protein_RNAase_biocrnpyler_996898" value="6.0" />
+<species name="complex_protein_RNAase_rna_vioA_biocrnpyler_996898" value="0.0" />
+<species name="rna_vioA_biocrnpyler_996898" value="0.0" />
+<species name="dna_dna_vioA_biocrnpyler_996898" value="10.0" />
+<species name="ribosome_Ribo_biocrnpyler_996898" value="0.0" />
+<species name="protein_RNAP_biocrnpyler_996898" value="3.0" />
+<species name="protein_VioA_biocrnpyler_996898" value="0.0" />
+<species name="complex_dna_dna_vioA_protein_RNAP_biocrnpyler_996898" value="0.0" />
+<species name="complex_ribosome_Ribo_rna_vioA_biocrnpyler_996898" value="0.0" />
+<species name="rna_vioB_biocrnpyler_996898" value="0.0" />
+<species name="complex_ribosome_Ribo_rna_vioB_biocrnpyler_996898" value="0.0" />
+<species name="dna_dna_vioB_biocrnpyler_996898" value="10.0" />
+<species name="complex_dna_dna_vioB_protein_RNAP_biocrnpyler_996898" value="0.0" />
+<species name="complex_protein_RNAase_rna_vioB_biocrnpyler_996898" value="0.0" />
+<species name="protein_VioB_biocrnpyler_996898" value="0.0" />
+<species name="complex_protein_RNAase_rna_vioE_biocrnpyler_996898" value="0.0" />
+<species name="rna_vioE_biocrnpyler_996898" value="0.0" />
+<species name="dna_dna_vioE_biocrnpyler_996898" value="10.0" />
+<species name="complex_ribosome_Ribo_rna_vioE_biocrnpyler_996898" value="0.0" />
+<species name="protein_VioE_biocrnpyler_996898" value="0.0" />
+<species name="complex_dna_dna_vioE_protein_RNAP_biocrnpyler_996898" value="0.0" />
+<species name="dna_dna_vioD_biocrnpyler_996898" value="10.0" />
+<species name="complex_protein_RNAase_rna_vioD_biocrnpyler_996898" value="0.0" />
+<species name="complex_ribosome_Ribo_rna_vioD_biocrnpyler_996898" value="0.0" />
+<species name="rna_vioD_biocrnpyler_996898" value="0.0" />
+<species name="complex_dna_dna_vioD_protein_RNAP_biocrnpyler_996898" value="0.0" />
+<species name="protein_VioD_biocrnpyler_996898" value="0.0" />
+<species name="TRP_biocrnpyler_996898" value="10.0" />
+<species name="IPA_imine_biocrnpyler_996898" value="0.0" />
+<species name="IPA_imine_dimer_biocrnpyler_996898" value="0.0" />
+<species name="PTDVA_2_combined" value="0.0" />
+<species name="PTVA_2_combined" value="0.0" />
+<species name="protein_Ribo_biocrnpyler_996898" value="24.0" />
+<species name="protein_RNAase_biocrnpyler_357611" value="6.0" />
+<species name="rna_vioC_biocrnpyler_357611" value="0.0" />
+<species name="ribosome_Ribo_biocrnpyler_357611" value="0.0" />
+<species name="protein_VioC_biocrnpyler_357611" value="0.0" />
+<species name="protein_RNAP_biocrnpyler_357611" value="3.0" />
+<species name="dna_dna_vioC_biocrnpyler_357611" value="10.0" />
+<species name="complex_ribosome_Ribo_rna_vioC_biocrnpyler_357611" value="0.0" />
+<species name="complex_dna_dna_vioC_protein_RNAP_biocrnpyler_357611" value="0.0" />
+<species name="complex_protein_RNAase_rna_vioC_biocrnpyler_357611" value="0.0" />
+<species name="V_biocrnpyler_357611" value="0.0" />
+<species name="DV_biocrnpyler_357611" value="0.0" />
+<species name="protein_Ribo_biocrnpyler_357611" value="24.0" />
+<species name="PTVA_external_environment_model_1_combined_1_combined" value="0.0" />
+<species name="PTDVA_external_environment_model_1_combined_1_combined" value="0.0" />
+
+<parameter name="kb_combined" value="10000.0" />
+<parameter name="kd_combined" value="10.0" />
+<parameter name="kb" value="10.0" />
+<parameter name="kd" value="10000.0" />
+<parameter name="k" value="100.0" />
+<parameter name="k_r0_1_biocrnpyler_996898" value="10.0" />
+<parameter name="k_r2_biocrnpyler_996898" value="0.05" />
+<parameter name="k_r3_biocrnpyler_996898" value="100.0" />
+<parameter name="k_r3_1_biocrnpyler_996898" value="10.0" />
+<parameter name="k_r5_biocrnpyler_996898" value="10.0" />
+<parameter name="k_r6_biocrnpyler_996898" value="100.0" />
+<parameter name="k_r6_1_biocrnpyler_996898" value="10.0" />
+<parameter name="k_r8_biocrnpyler_996898" value="0.001" />
+<parameter name="k_r9_biocrnpyler_996898" value="100.0" />
+<parameter name="k_r9_1_biocrnpyler_996898" value="10.0" />
+<parameter name="k_r11_biocrnpyler_996898" value="0.05" />
+<parameter name="k_r12_biocrnpyler_996898" value="100.0" />
+<parameter name="k_r12_1_biocrnpyler_996898" value="10.0" />
+<parameter name="k_r14_biocrnpyler_996898" value="10.0" />
+<parameter name="k_r15_biocrnpyler_996898" value="100.0" />
+<parameter name="k_r15_1_biocrnpyler_996898" value="10.0" />
+<parameter name="k_r17_biocrnpyler_996898" value="0.001" />
+<parameter name="k_r18_biocrnpyler_996898" value="100.0" />
+<parameter name="k_r18_1_biocrnpyler_996898" value="10.0" />
+<parameter name="k_r20_biocrnpyler_996898" value="0.05" />
+<parameter name="k_r21_biocrnpyler_996898" value="100.0" />
+<parameter name="k_r21_1_biocrnpyler_996898" value="10.0" />
+<parameter name="k_r23_biocrnpyler_996898" value="10.0" />
+<parameter name="k_r24_biocrnpyler_996898" value="100.0" />
+<parameter name="k_r24_1_biocrnpyler_996898" value="10.0" />
+<parameter name="k_r26_biocrnpyler_996898" value="0.001" />
+<parameter name="k_r27_biocrnpyler_996898" value="100.0" />
+<parameter name="k_r27_1_biocrnpyler_996898" value="10.0" />
+<parameter name="k_r29_biocrnpyler_996898" value="0.05" />
+<parameter name="k_r30_biocrnpyler_996898" value="100.0" />
+<parameter name="k_r30_1_biocrnpyler_996898" value="10.0" />
+<parameter name="k_r32_biocrnpyler_996898" value="10.0" />
+<parameter name="k_r33_biocrnpyler_996898" value="100.0" />
+<parameter name="k_r33_1_biocrnpyler_996898" value="10.0" />
+<parameter name="k_r35_biocrnpyler_996898" value="0.001" />
+<parameter name="k_r36_biocrnpyler_996898" value="10.0" />
+<parameter name="k_r37_biocrnpyler_996898" value="10.0" />
+<parameter name="k_r38_biocrnpyler_996898" value="10.0" />
+<parameter name="k_r39_biocrnpyler_996898" value="10.0" />
+<parameter name="k_r0_biocrnpyler_357611" value="100.0" />
+<parameter name="k_r0_1_biocrnpyler_357611" value="10.0" />
+<parameter name="k_r2_biocrnpyler_357611" value="0.05" />
+<parameter name="k_r3_biocrnpyler_357611" value="100.0" />
+<parameter name="k_r3_1_biocrnpyler_357611" value="10.0" />
+<parameter name="k_r5_biocrnpyler_357611" value="10.0" />
+<parameter name="k_r6_biocrnpyler_357611" value="100.0" />
+<parameter name="k_r6_1_biocrnpyler_357611" value="10.0" />
+<parameter name="k_r8_biocrnpyler_357611" value="0.001" />
+<parameter name="k_r9_biocrnpyler_357611" value="10.0" />
+<parameter name="k_r10_biocrnpyler_357611" value="10.0" />
+<parameter name="DummyVar_BimolecularPropensity_k_0" value="100.0" />
+<parameter name="DummyVar_UnimolecularPropensity_k_1" value="10.0" />
+<parameter name="DummyVar_UnimolecularPropensity_k_2" value="0.05" />
+<parameter name="DummyVar_BimolecularPropensity_k_3" value="100.0" />
+<parameter name="DummyVar_UnimolecularPropensity_k_4" value="10.0" />
+<parameter name="DummyVar_UnimolecularPropensity_k_5" value="10.0" />
+<parameter name="DummyVar_BimolecularPropensity_k_6" value="100.0" />
+<parameter name="DummyVar_UnimolecularPropensity_k_7" value="10.0" />
+<parameter name="DummyVar_UnimolecularPropensity_k_8" value="0.001" />
+<parameter name="DummyVar_BimolecularPropensity_k_9" value="100.0" />
+<parameter name="DummyVar_UnimolecularPropensity_k_10" value="10.0" />
+<parameter name="DummyVar_UnimolecularPropensity_k_11" value="0.05" />
+<parameter name="DummyVar_BimolecularPropensity_k_12" value="100.0" />
+<parameter name="DummyVar_UnimolecularPropensity_k_13" value="10.0" />
+<parameter name="DummyVar_UnimolecularPropensity_k_14" value="10.0" />
+<parameter name="DummyVar_BimolecularPropensity_k_15" value="100.0" />
+<parameter name="DummyVar_UnimolecularPropensity_k_16" value="10.0" />
+<parameter name="DummyVar_UnimolecularPropensity_k_17" value="0.001" />
+<parameter name="DummyVar_BimolecularPropensity_k_18" value="100.0" />
+<parameter name="DummyVar_UnimolecularPropensity_k_19" value="10.0" />
+<parameter name="DummyVar_UnimolecularPropensity_k_20" value="0.05" />
+<parameter name="DummyVar_BimolecularPropensity_k_21" value="100.0" />
+<parameter name="DummyVar_UnimolecularPropensity_k_22" value="10.0" />
+<parameter name="DummyVar_UnimolecularPropensity_k_23" value="10.0" />
+<parameter name="DummyVar_BimolecularPropensity_k_24" value="100.0" />
+<parameter name="DummyVar_UnimolecularPropensity_k_25" value="10.0" />
+<parameter name="DummyVar_UnimolecularPropensity_k_26" value="0.001" />
+<parameter name="DummyVar_BimolecularPropensity_k_27" value="100.0" />
+<parameter name="DummyVar_UnimolecularPropensity_k_28" value="10.0" />
+<parameter name="DummyVar_UnimolecularPropensity_k_29" value="0.05" />
+<parameter name="DummyVar_BimolecularPropensity_k_30" value="100.0" />
+<parameter name="DummyVar_UnimolecularPropensity_k_31" value="10.0" />
+<parameter name="DummyVar_UnimolecularPropensity_k_32" value="10.0" />
+<parameter name="DummyVar_BimolecularPropensity_k_33" value="100.0" />
+<parameter name="DummyVar_UnimolecularPropensity_k_34" value="10.0" />
+<parameter name="DummyVar_UnimolecularPropensity_k_35" value="0.001" />
+<parameter name="DummyVar_BimolecularPropensity_k_36" value="10.0" />
+<parameter name="DummyVar_MassActionPropensity_k_37" value="10.0" />
+<parameter name="DummyVar_BimolecularPropensity_k_38" value="10.0" />
+<parameter name="DummyVar_BimolecularPropensity_k_39" value="10.0" />
+<parameter name="DummyVar_BimolecularPropensity_k_40" value="100.0" />
+<parameter name="DummyVar_UnimolecularPropensity_k_41" value="10.0" />
+<parameter name="DummyVar_UnimolecularPropensity_k_42" value="0.05" />
+<parameter name="DummyVar_BimolecularPropensity_k_43" value="100.0" />
+<parameter name="DummyVar_UnimolecularPropensity_k_44" value="10.0" />
+<parameter name="DummyVar_UnimolecularPropensity_k_45" value="10.0" />
+<parameter name="DummyVar_BimolecularPropensity_k_46" value="100.0" />
+<parameter name="DummyVar_UnimolecularPropensity_k_47" value="10.0" />
+<parameter name="DummyVar_UnimolecularPropensity_k_48" value="0.001" />
+<parameter name="DummyVar_BimolecularPropensity_k_49" value="10.0" />
+<parameter name="DummyVar_BimolecularPropensity_k_50" value="10.0" />
+
+<reaction text= "PTVA_2_combined -- PTVA_external_environment_model_1_combined_1_combined ">
+	<propensity type="general" rate="PTVA_2_combined*_kb_combined - PTVA_external_environment_model_1_combined_1_combined*_kd_combined" />
+	<delay type="none" />
+</reaction>
+<reaction text= "PTDVA_2_combined -- PTDVA_external_environment_model_1_combined_1_combined ">
+	<propensity type="general" rate="PTDVA_2_combined*_kb_combined - PTDVA_external_environment_model_1_combined_1_combined*_kd_combined" />
+	<delay type="none" />
+</reaction>
+<reaction text= "dna_dna_vioA_biocrnpyler_996898 + protein_RNAP_biocrnpyler_996898 -- complex_dna_dna_vioA_protein_RNAP_biocrnpyler_996898 ">
+	<propensity type="massaction" k="DummyVar_BimolecularPropensity_k_0" species="dna_dna_vioA_biocrnpyler_996898*protein_RNAP_biocrnpyler_996898" />
+	<delay type="none" />
+</reaction>
+<reaction text= "complex_dna_dna_vioA_protein_RNAP_biocrnpyler_996898 -- dna_dna_vioA_biocrnpyler_996898 + protein_RNAP_biocrnpyler_996898 ">
+	<propensity type="massaction" k="DummyVar_UnimolecularPropensity_k_1" species="complex_dna_dna_vioA_protein_RNAP_biocrnpyler_996898" />
+	<delay type="none" />
+</reaction>
+<reaction text= "complex_dna_dna_vioA_protein_RNAP_biocrnpyler_996898 -- dna_dna_vioA_biocrnpyler_996898 + rna_vioA_biocrnpyler_996898 + protein_RNAP_biocrnpyler_996898 ">
+	<propensity type="massaction" k="DummyVar_UnimolecularPropensity_k_2" species="complex_dna_dna_vioA_protein_RNAP_biocrnpyler_996898" />
+	<delay type="none" />
+</reaction>
+<reaction text= "rna_vioA_biocrnpyler_996898 + ribosome_Ribo_biocrnpyler_996898 -- complex_ribosome_Ribo_rna_vioA_biocrnpyler_996898 ">
+	<propensity type="massaction" k="DummyVar_BimolecularPropensity_k_3" species="rna_vioA_biocrnpyler_996898*ribosome_Ribo_biocrnpyler_996898" />
+	<delay type="none" />
+</reaction>
+<reaction text= "complex_ribosome_Ribo_rna_vioA_biocrnpyler_996898 -- rna_vioA_biocrnpyler_996898 + ribosome_Ribo_biocrnpyler_996898 ">
+	<propensity type="massaction" k="DummyVar_UnimolecularPropensity_k_4" species="complex_ribosome_Ribo_rna_vioA_biocrnpyler_996898" />
+	<delay type="none" />
+</reaction>
+<reaction text= "complex_ribosome_Ribo_rna_vioA_biocrnpyler_996898 -- rna_vioA_biocrnpyler_996898 + protein_VioA_biocrnpyler_996898 + ribosome_Ribo_biocrnpyler_996898 ">
+	<propensity type="massaction" k="DummyVar_UnimolecularPropensity_k_5" species="complex_ribosome_Ribo_rna_vioA_biocrnpyler_996898" />
+	<delay type="none" />
+</reaction>
+<reaction text= "rna_vioA_biocrnpyler_996898 + protein_RNAase_biocrnpyler_996898 -- complex_protein_RNAase_rna_vioA_biocrnpyler_996898 ">
+	<propensity type="massaction" k="DummyVar_BimolecularPropensity_k_6" species="rna_vioA_biocrnpyler_996898*protein_RNAase_biocrnpyler_996898" />
+	<delay type="none" />
+</reaction>
+<reaction text= "complex_protein_RNAase_rna_vioA_biocrnpyler_996898 -- rna_vioA_biocrnpyler_996898 + protein_RNAase_biocrnpyler_996898 ">
+	<propensity type="massaction" k="DummyVar_UnimolecularPropensity_k_7" species="complex_protein_RNAase_rna_vioA_biocrnpyler_996898" />
+	<delay type="none" />
+</reaction>
+<reaction text= "complex_protein_RNAase_rna_vioA_biocrnpyler_996898 -- protein_RNAase_biocrnpyler_996898 ">
+	<propensity type="massaction" k="DummyVar_UnimolecularPropensity_k_8" species="complex_protein_RNAase_rna_vioA_biocrnpyler_996898" />
+	<delay type="none" />
+</reaction>
+<reaction text= "dna_dna_vioB_biocrnpyler_996898 + protein_RNAP_biocrnpyler_996898 -- complex_dna_dna_vioB_protein_RNAP_biocrnpyler_996898 ">
+	<propensity type="massaction" k="DummyVar_BimolecularPropensity_k_9" species="dna_dna_vioB_biocrnpyler_996898*protein_RNAP_biocrnpyler_996898" />
+	<delay type="none" />
+</reaction>
+<reaction text= "complex_dna_dna_vioB_protein_RNAP_biocrnpyler_996898 -- dna_dna_vioB_biocrnpyler_996898 + protein_RNAP_biocrnpyler_996898 ">
+	<propensity type="massaction" k="DummyVar_UnimolecularPropensity_k_10" species="complex_dna_dna_vioB_protein_RNAP_biocrnpyler_996898" />
+	<delay type="none" />
+</reaction>
+<reaction text= "complex_dna_dna_vioB_protein_RNAP_biocrnpyler_996898 -- dna_dna_vioB_biocrnpyler_996898 + rna_vioB_biocrnpyler_996898 + protein_RNAP_biocrnpyler_996898 ">
+	<propensity type="massaction" k="DummyVar_UnimolecularPropensity_k_11" species="complex_dna_dna_vioB_protein_RNAP_biocrnpyler_996898" />
+	<delay type="none" />
+</reaction>
+<reaction text= "rna_vioB_biocrnpyler_996898 + ribosome_Ribo_biocrnpyler_996898 -- complex_ribosome_Ribo_rna_vioB_biocrnpyler_996898 ">
+	<propensity type="massaction" k="DummyVar_BimolecularPropensity_k_12" species="rna_vioB_biocrnpyler_996898*ribosome_Ribo_biocrnpyler_996898" />
+	<delay type="none" />
+</reaction>
+<reaction text= "complex_ribosome_Ribo_rna_vioB_biocrnpyler_996898 -- rna_vioB_biocrnpyler_996898 + ribosome_Ribo_biocrnpyler_996898 ">
+	<propensity type="massaction" k="DummyVar_UnimolecularPropensity_k_13" species="complex_ribosome_Ribo_rna_vioB_biocrnpyler_996898" />
+	<delay type="none" />
+</reaction>
+<reaction text= "complex_ribosome_Ribo_rna_vioB_biocrnpyler_996898 -- rna_vioB_biocrnpyler_996898 + protein_VioB_biocrnpyler_996898 + ribosome_Ribo_biocrnpyler_996898 ">
+	<propensity type="massaction" k="DummyVar_UnimolecularPropensity_k_14" species="complex_ribosome_Ribo_rna_vioB_biocrnpyler_996898" />
+	<delay type="none" />
+</reaction>
+<reaction text= "rna_vioB_biocrnpyler_996898 + protein_RNAase_biocrnpyler_996898 -- complex_protein_RNAase_rna_vioB_biocrnpyler_996898 ">
+	<propensity type="massaction" k="DummyVar_BimolecularPropensity_k_15" species="rna_vioB_biocrnpyler_996898*protein_RNAase_biocrnpyler_996898" />
+	<delay type="none" />
+</reaction>
+<reaction text= "complex_protein_RNAase_rna_vioB_biocrnpyler_996898 -- rna_vioB_biocrnpyler_996898 + protein_RNAase_biocrnpyler_996898 ">
+	<propensity type="massaction" k="DummyVar_UnimolecularPropensity_k_16" species="complex_protein_RNAase_rna_vioB_biocrnpyler_996898" />
+	<delay type="none" />
+</reaction>
+<reaction text= "complex_protein_RNAase_rna_vioB_biocrnpyler_996898 -- protein_RNAase_biocrnpyler_996898 ">
+	<propensity type="massaction" k="DummyVar_UnimolecularPropensity_k_17" species="complex_protein_RNAase_rna_vioB_biocrnpyler_996898" />
+	<delay type="none" />
+</reaction>
+<reaction text= "dna_dna_vioE_biocrnpyler_996898 + protein_RNAP_biocrnpyler_996898 -- complex_dna_dna_vioE_protein_RNAP_biocrnpyler_996898 ">
+	<propensity type="massaction" k="DummyVar_BimolecularPropensity_k_18" species="dna_dna_vioE_biocrnpyler_996898*protein_RNAP_biocrnpyler_996898" />
+	<delay type="none" />
+</reaction>
+<reaction text= "complex_dna_dna_vioE_protein_RNAP_biocrnpyler_996898 -- dna_dna_vioE_biocrnpyler_996898 + protein_RNAP_biocrnpyler_996898 ">
+	<propensity type="massaction" k="DummyVar_UnimolecularPropensity_k_19" species="complex_dna_dna_vioE_protein_RNAP_biocrnpyler_996898" />
+	<delay type="none" />
+</reaction>
+<reaction text= "complex_dna_dna_vioE_protein_RNAP_biocrnpyler_996898 -- dna_dna_vioE_biocrnpyler_996898 + rna_vioE_biocrnpyler_996898 + protein_RNAP_biocrnpyler_996898 ">
+	<propensity type="massaction" k="DummyVar_UnimolecularPropensity_k_20" species="complex_dna_dna_vioE_protein_RNAP_biocrnpyler_996898" />
+	<delay type="none" />
+</reaction>
+<reaction text= "rna_vioE_biocrnpyler_996898 + ribosome_Ribo_biocrnpyler_996898 -- complex_ribosome_Ribo_rna_vioE_biocrnpyler_996898 ">
+	<propensity type="massaction" k="DummyVar_BimolecularPropensity_k_21" species="rna_vioE_biocrnpyler_996898*ribosome_Ribo_biocrnpyler_996898" />
+	<delay type="none" />
+</reaction>
+<reaction text= "complex_ribosome_Ribo_rna_vioE_biocrnpyler_996898 -- rna_vioE_biocrnpyler_996898 + ribosome_Ribo_biocrnpyler_996898 ">
+	<propensity type="massaction" k="DummyVar_UnimolecularPropensity_k_22" species="complex_ribosome_Ribo_rna_vioE_biocrnpyler_996898" />
+	<delay type="none" />
+</reaction>
+<reaction text= "complex_ribosome_Ribo_rna_vioE_biocrnpyler_996898 -- rna_vioE_biocrnpyler_996898 + protein_VioE_biocrnpyler_996898 + ribosome_Ribo_biocrnpyler_996898 ">
+	<propensity type="massaction" k="DummyVar_UnimolecularPropensity_k_23" species="complex_ribosome_Ribo_rna_vioE_biocrnpyler_996898" />
+	<delay type="none" />
+</reaction>
+<reaction text= "rna_vioE_biocrnpyler_996898 + protein_RNAase_biocrnpyler_996898 -- complex_protein_RNAase_rna_vioE_biocrnpyler_996898 ">
+	<propensity type="massaction" k="DummyVar_BimolecularPropensity_k_24" species="rna_vioE_biocrnpyler_996898*protein_RNAase_biocrnpyler_996898" />
+	<delay type="none" />
+</reaction>
+<reaction text= "complex_protein_RNAase_rna_vioE_biocrnpyler_996898 -- rna_vioE_biocrnpyler_996898 + protein_RNAase_biocrnpyler_996898 ">
+	<propensity type="massaction" k="DummyVar_UnimolecularPropensity_k_25" species="complex_protein_RNAase_rna_vioE_biocrnpyler_996898" />
+	<delay type="none" />
+</reaction>
+<reaction text= "complex_protein_RNAase_rna_vioE_biocrnpyler_996898 -- protein_RNAase_biocrnpyler_996898 ">
+	<propensity type="massaction" k="DummyVar_UnimolecularPropensity_k_26" species="complex_protein_RNAase_rna_vioE_biocrnpyler_996898" />
+	<delay type="none" />
+</reaction>
+<reaction text= "dna_dna_vioD_biocrnpyler_996898 + protein_RNAP_biocrnpyler_996898 -- complex_dna_dna_vioD_protein_RNAP_biocrnpyler_996898 ">
+	<propensity type="massaction" k="DummyVar_BimolecularPropensity_k_27" species="dna_dna_vioD_biocrnpyler_996898*protein_RNAP_biocrnpyler_996898" />
+	<delay type="none" />
+</reaction>
+<reaction text= "complex_dna_dna_vioD_protein_RNAP_biocrnpyler_996898 -- dna_dna_vioD_biocrnpyler_996898 + protein_RNAP_biocrnpyler_996898 ">
+	<propensity type="massaction" k="DummyVar_UnimolecularPropensity_k_28" species="complex_dna_dna_vioD_protein_RNAP_biocrnpyler_996898" />
+	<delay type="none" />
+</reaction>
+<reaction text= "complex_dna_dna_vioD_protein_RNAP_biocrnpyler_996898 -- dna_dna_vioD_biocrnpyler_996898 + rna_vioD_biocrnpyler_996898 + protein_RNAP_biocrnpyler_996898 ">
+	<propensity type="massaction" k="DummyVar_UnimolecularPropensity_k_29" species="complex_dna_dna_vioD_protein_RNAP_biocrnpyler_996898" />
+	<delay type="none" />
+</reaction>
+<reaction text= "rna_vioD_biocrnpyler_996898 + ribosome_Ribo_biocrnpyler_996898 -- complex_ribosome_Ribo_rna_vioD_biocrnpyler_996898 ">
+	<propensity type="massaction" k="DummyVar_BimolecularPropensity_k_30" species="rna_vioD_biocrnpyler_996898*ribosome_Ribo_biocrnpyler_996898" />
+	<delay type="none" />
+</reaction>
+<reaction text= "complex_ribosome_Ribo_rna_vioD_biocrnpyler_996898 -- rna_vioD_biocrnpyler_996898 + ribosome_Ribo_biocrnpyler_996898 ">
+	<propensity type="massaction" k="DummyVar_UnimolecularPropensity_k_31" species="complex_ribosome_Ribo_rna_vioD_biocrnpyler_996898" />
+	<delay type="none" />
+</reaction>
+<reaction text= "complex_ribosome_Ribo_rna_vioD_biocrnpyler_996898 -- rna_vioD_biocrnpyler_996898 + protein_VioD_biocrnpyler_996898 + ribosome_Ribo_biocrnpyler_996898 ">
+	<propensity type="massaction" k="DummyVar_UnimolecularPropensity_k_32" species="complex_ribosome_Ribo_rna_vioD_biocrnpyler_996898" />
+	<delay type="none" />
+</reaction>
+<reaction text= "rna_vioD_biocrnpyler_996898 + protein_RNAase_biocrnpyler_996898 -- complex_protein_RNAase_rna_vioD_biocrnpyler_996898 ">
+	<propensity type="massaction" k="DummyVar_BimolecularPropensity_k_33" species="rna_vioD_biocrnpyler_996898*protein_RNAase_biocrnpyler_996898" />
+	<delay type="none" />
+</reaction>
+<reaction text= "complex_protein_RNAase_rna_vioD_biocrnpyler_996898 -- rna_vioD_biocrnpyler_996898 + protein_RNAase_biocrnpyler_996898 ">
+	<propensity type="massaction" k="DummyVar_UnimolecularPropensity_k_34" species="complex_protein_RNAase_rna_vioD_biocrnpyler_996898" />
+	<delay type="none" />
+</reaction>
+<reaction text= "complex_protein_RNAase_rna_vioD_biocrnpyler_996898 -- protein_RNAase_biocrnpyler_996898 ">
+	<propensity type="massaction" k="DummyVar_UnimolecularPropensity_k_35" species="complex_protein_RNAase_rna_vioD_biocrnpyler_996898" />
+	<delay type="none" />
+</reaction>
+<reaction text= "protein_VioA_biocrnpyler_996898 + TRP_biocrnpyler_996898 -- protein_VioA_biocrnpyler_996898 + IPA_imine_biocrnpyler_996898 ">
+	<propensity type="massaction" k="DummyVar_BimolecularPropensity_k_36" species="protein_VioA_biocrnpyler_996898*TRP_biocrnpyler_996898" />
+	<delay type="none" />
+</reaction>
+<reaction text= "protein_VioB_biocrnpyler_996898 + IPA_imine_biocrnpyler_996898 + IPA_imine_biocrnpyler_996898 -- protein_VioB_biocrnpyler_996898 + IPA_imine_dimer_biocrnpyler_996898 ">
+	<propensity type="massaction" k="DummyVar_MassActionPropensity_k_37" species="protein_VioB_biocrnpyler_996898*IPA_imine_biocrnpyler_996898*IPA_imine_biocrnpyler_996898" />
+	<delay type="none" />
+</reaction>
+<reaction text= "protein_VioE_biocrnpyler_996898 + IPA_imine_dimer_biocrnpyler_996898 -- protein_VioE_biocrnpyler_996898 + PTDVA_2_combined ">
+	<propensity type="massaction" k="DummyVar_BimolecularPropensity_k_38" species="protein_VioE_biocrnpyler_996898*IPA_imine_dimer_biocrnpyler_996898" />
+	<delay type="none" />
+</reaction>
+<reaction text= "protein_VioD_biocrnpyler_996898 + PTDVA_2_combined -- protein_VioD_biocrnpyler_996898 + PTVA_2_combined ">
+	<propensity type="massaction" k="DummyVar_BimolecularPropensity_k_39" species="protein_VioD_biocrnpyler_996898*PTDVA_2_combined" />
+	<delay type="none" />
+</reaction>
+<reaction text= "dna_dna_vioC_biocrnpyler_357611 + protein_RNAP_biocrnpyler_357611 -- complex_dna_dna_vioC_protein_RNAP_biocrnpyler_357611 ">
+	<propensity type="massaction" k="DummyVar_BimolecularPropensity_k_40" species="dna_dna_vioC_biocrnpyler_357611*protein_RNAP_biocrnpyler_357611" />
+	<delay type="none" />
+</reaction>
+<reaction text= "complex_dna_dna_vioC_protein_RNAP_biocrnpyler_357611 -- dna_dna_vioC_biocrnpyler_357611 + protein_RNAP_biocrnpyler_357611 ">
+	<propensity type="massaction" k="DummyVar_UnimolecularPropensity_k_41" species="complex_dna_dna_vioC_protein_RNAP_biocrnpyler_357611" />
+	<delay type="none" />
+</reaction>
+<reaction text= "complex_dna_dna_vioC_protein_RNAP_biocrnpyler_357611 -- dna_dna_vioC_biocrnpyler_357611 + rna_vioC_biocrnpyler_357611 + protein_RNAP_biocrnpyler_357611 ">
+	<propensity type="massaction" k="DummyVar_UnimolecularPropensity_k_42" species="complex_dna_dna_vioC_protein_RNAP_biocrnpyler_357611" />
+	<delay type="none" />
+</reaction>
+<reaction text= "rna_vioC_biocrnpyler_357611 + ribosome_Ribo_biocrnpyler_357611 -- complex_ribosome_Ribo_rna_vioC_biocrnpyler_357611 ">
+	<propensity type="massaction" k="DummyVar_BimolecularPropensity_k_43" species="rna_vioC_biocrnpyler_357611*ribosome_Ribo_biocrnpyler_357611" />
+	<delay type="none" />
+</reaction>
+<reaction text= "complex_ribosome_Ribo_rna_vioC_biocrnpyler_357611 -- rna_vioC_biocrnpyler_357611 + ribosome_Ribo_biocrnpyler_357611 ">
+	<propensity type="massaction" k="DummyVar_UnimolecularPropensity_k_44" species="complex_ribosome_Ribo_rna_vioC_biocrnpyler_357611" />
+	<delay type="none" />
+</reaction>
+<reaction text= "complex_ribosome_Ribo_rna_vioC_biocrnpyler_357611 -- rna_vioC_biocrnpyler_357611 + protein_VioC_biocrnpyler_357611 + ribosome_Ribo_biocrnpyler_357611 ">
+	<propensity type="massaction" k="DummyVar_UnimolecularPropensity_k_45" species="complex_ribosome_Ribo_rna_vioC_biocrnpyler_357611" />
+	<delay type="none" />
+</reaction>
+<reaction text= "rna_vioC_biocrnpyler_357611 + protein_RNAase_biocrnpyler_357611 -- complex_protein_RNAase_rna_vioC_biocrnpyler_357611 ">
+	<propensity type="massaction" k="DummyVar_BimolecularPropensity_k_46" species="rna_vioC_biocrnpyler_357611*protein_RNAase_biocrnpyler_357611" />
+	<delay type="none" />
+</reaction>
+<reaction text= "complex_protein_RNAase_rna_vioC_biocrnpyler_357611 -- rna_vioC_biocrnpyler_357611 + protein_RNAase_biocrnpyler_357611 ">
+	<propensity type="massaction" k="DummyVar_UnimolecularPropensity_k_47" species="complex_protein_RNAase_rna_vioC_biocrnpyler_357611" />
+	<delay type="none" />
+</reaction>
+<reaction text= "complex_protein_RNAase_rna_vioC_biocrnpyler_357611 -- protein_RNAase_biocrnpyler_357611 ">
+	<propensity type="massaction" k="DummyVar_UnimolecularPropensity_k_48" species="complex_protein_RNAase_rna_vioC_biocrnpyler_357611" />
+	<delay type="none" />
+</reaction>
+<reaction text= "protein_VioC_biocrnpyler_357611 + PTVA_2_combined -- protein_VioC_biocrnpyler_357611 + V_biocrnpyler_357611 ">
+	<propensity type="massaction" k="DummyVar_BimolecularPropensity_k_49" species="protein_VioC_biocrnpyler_357611*PTVA_2_combined" />
+	<delay type="none" />
+</reaction>
+<reaction text= "protein_VioC_biocrnpyler_357611 + PTDVA_2_combined -- protein_VioC_biocrnpyler_357611 + DV_biocrnpyler_357611 ">
+	<propensity type="massaction" k="DummyVar_BimolecularPropensity_k_50" species="protein_VioC_biocrnpyler_357611*PTDVA_2_combined" />
+	<delay type="none" />
+</reaction>
+
+</model>
